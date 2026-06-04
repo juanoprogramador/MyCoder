@@ -1,0 +1,16 @@
+[project]
+name = "mycoder"
+version = "0.1.0"
+description = "Terminal-first IDE"
+requires-python = ">=3.11"
+
+dependencies = [
+    "textual"
+]
+
+[project.scripts]
+mycoder = "mycoder.app:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"

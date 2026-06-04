@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: mycoder
+Version: 0.1.0
+Summary: Terminal-first IDE
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: textual
+Dynamic: license-file

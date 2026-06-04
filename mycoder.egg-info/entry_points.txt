@@ -1,0 +1,2 @@
+[console_scripts]
+mycoder = mycoder.app:main
